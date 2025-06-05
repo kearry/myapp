@@ -3,7 +3,7 @@
 
 **Episode Number**: S01E01  
 **Title**: Discovery  
-**Writer**: [Your Name]  
+**Writer**: Kevin Harrison  
 **Created**: 2025-06-05  
 **Status**: Complete Draft
 

@@ -100,6 +100,6 @@ A conspiracy thriller following investigative journalist Emma Chen's discovery o
 - AR features
 - Social integration
 
----
+----
 *Created: Series Bible Foundation*
 *Status: Complete - Ready for Development*

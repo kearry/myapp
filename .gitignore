@@ -1,0 +1,62 @@
+# The Playbook - Git Ignore File
+
+# OS Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.sublime-project
+.sublime-workspace
+
+# Temporary Files
+*.tmp
+*.temp
+.cache/
+.sass-cache/
+node_modules/
+
+# Personal Notes (use personal/ directory instead)
+notes/
+drafts/
+scratch/
+
+# Large Assets (use Git LFS if needed)
+*.mov
+*.mp4
+*.avi
+*.mkv
+*.psd
+*.ai
+*.sketch
+
+# Sensitive Information
+secrets/
+private/
+confidential/
+.env
+.env.local
+
+# Logs
+*.log
+logs/
+
+# Build artifacts
+dist/
+build/
+*.zip
+*.tar.gz
+
+# Backup files
+*.bak
+*.backup
+*~

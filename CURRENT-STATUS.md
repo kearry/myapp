@@ -12,7 +12,7 @@
 ## Critical Decisions Made
 - ✅ **Branching Narrative Structure**: Early Branch (Episodes 1-6 shared, 7-10 branch into 5 paths)
 - ✅ **Repository Structure**: Complete with TV/Podcast separation
-- ❌ **Content Migration**: Not Started (next priority)
+- 🔄 **Content Migration**: In Progress (Episode 1 ✅, Core Knowledge ✅)
 
 ## Current Priority
 **Immediate Next Step**: Migrate existing content to repository files

@@ -1,26 +1,13 @@
 # Next Actions - Immediate Priorities
 
 ## Current Session Target
-**Primary Goal**: [Exactly what to accomplish this session]
-**Time Estimate**: [How long this should take]
-**Success Criteria**: [How to know it's done]
+**Primary Goal**: Content migration from conversation artifacts
+**Success Criteria**: All major content in repository files
 
 ## Next 3 Sessions
-1. **Session [X]**: [Specific task]
-2. **Session [X+1]**: [Specific task]  
-3. **Session [X+2]**: [Specific task]
+1. **Session 1**: Complete content migration
+2. **Session 2**: Write Episode 2 script
+3. **Session 3**: Outline Episodes 3-6 structure
 
 ## Blocking Issues
-- [ ] [Any decisions needed]
-- [ ] [Any resources needed]
-- [ ] [Any clarifications needed]
-
-## Quick Wins Available
-- [ ] [Small tasks that can be completed quickly]
-- [ ] [Easy progress items]
-
-## Long-term Pipeline
-- Episode 2 script development
-- Episodes 3-6 outline creation
-- Branching interface design
-- Podcast adaptation planning
+None currently

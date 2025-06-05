@@ -2,23 +2,12 @@
 
 ## Major Project Decisions
 
+### 2025-06-05: Branching Narrative Structure
+**Decision**: All 5 endings via branching narrative - Early Branch approach
+**Rationale**: Audience choice, innovation, rewatch value, philosophical exploration
+**Impact**: 26 total episodes (6 shared + 20 branched), industry innovation potential
+
 ### 2025-06-05: Repository Structure
-**Decision**: Dual TV/Podcast development with branching narrative
-**Rationale**: Interactive storytelling innovation
-**Impact**: 26 total episodes (6 shared + 20 branched)
-
-### [DATE]: Series Ending Philosophy
-**Decision**: All 5 endings via branching narrative
-**Rationale**: Audience choice, rewatch value, philosophical exploration
-**Impact**: Production complexity increased, innovation opportunity
-
-### [DATE]: Branching Structure
-**Decision**: Early Branch - Episodes 1-6 shared, 7-10 branch
-**Rationale**: Manageable production, strong foundation
-**Impact**: Clear development path established
-
-## Decision Template
-### [DATE]: [Decision Name]
-**Decision**: [What was decided]
-**Rationale**: [Why this choice]
-**Impact**: [How this affects project]
+**Decision**: Dual TV/Podcast development with professional git workflow
+**Rationale**: Version control, collaboration ready, professional presentation
+**Impact**: Scalable development, clear organization

@@ -92,6 +92,6 @@
 - **Mid-Season**: Threatened by exposure
 - **Season End**: TBD - response to threat
 
----
+----
 *Character Development: Season 1 Foundation*
 *Status: Complete - Ready for Episode Development*

@@ -1,13 +1,9 @@
-# Next Actions - Immediate Priorities
+# NEXT SESSION PRIORITY
 
-## Current Session Target
-**Primary Goal**: Content migration from conversation artifacts
-**Success Criteria**: All major content in repository files
+**Primary Goal**: Plan Episodes 2-6 structure (shared foundation)
+**Time Estimate**: 60 minutes focused planning
+**Success Criteria**: Complete episode outlines leading to branching point
 
-## Next 3 Sessions
-1. **Session 1**: Complete content migration
-2. **Session 2**: Write Episode 2 script
-3. **Session 3**: Outline Episodes 3-6 structure
-
-## Blocking Issues
-None currently
+**Session Type**: Creative planning and story structure
+**Energy Required**: Medium (strategic thinking)
+**Expected Output**: Episode synopsis for Episodes 2-6

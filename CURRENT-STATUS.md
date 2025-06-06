@@ -18,7 +18,7 @@
 
 ## Current Priority
 **Immediate Next Step**: Plan Episodes 2-6 structure (shared foundation leading to branching point)
-**Blocking Issue**: None - foundation complete and solid
+**Blocking Issue**: None for Episodes 2-6. Decision on series ending required before developing Episodes 7-10.
 
 ## Development Status
 - ✅ **Content Migration**: Complete (Episode 1, series bible, research, characters)

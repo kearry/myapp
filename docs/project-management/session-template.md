@@ -1,9 +1,9 @@
 # Session Template
 
 ## Session Start Checklist
-- [ ] Pasted current status to Claude
+- [ ] Pasted current status to the AI
 - [ ] Confirmed session goal
-- [ ] Claude understands context
+- [ ] the AI understands context
 - [ ] Ready to work
 
 ## Session Goal

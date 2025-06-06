@@ -98,17 +98,33 @@
 
 ### NEW ORDER vs. CIRCLE
 - **Open Conflict**: Legal battles and media warfare
-- **Hidden Cooperation**: Possible secret agreements
-- **Shared History**: Both evolved from same historical roots
-- **Personal Connections**: James and Elizabeth's relationship
-- **Competing Visions**: Control vs. transparency
+- **Hidden History**: Marcus and Elizabeth were former allies (early 2000s tech resistance)
+- **The Split (2008)**: Disagreement over methodology - guided control vs radical transparency
+- **Personal Dynamic**: Mutual respect but fundamental ideological opposition
+- **Competing Visions**: Benevolent control vs. democratic transparency
+- **Strategic Chess**: Each anticipates the other's moves, compete for Emma's allegiance
 
 ### GUARDIANS' ROLE
-- **Neutral Position**: Don't take sides in human conflicts
-- **Information Flow**: Control what each side knows when
-- **Balance Maintenance**: Prevent either side from winning completely
-- **Long-term Agenda**: Unknown ultimate objectives
-- **Human Welfare**: Unclear if they prioritize human interests
+- **Neutral Position**: Maintain balance between New Order and Circle
+- **Information Flow**: Control what each side knows and when
+- **Balance Maintenance**: Prevent either side from achieving total victory
+- **Long-term Agenda**: Unknown ultimate objectives beyond balance
+- **Human Welfare**: Unclear if they prioritize human interests or stability
+
+### INTER-SOCIETY INTELLIGENCE
+**What Each Society Knows About Others**:
+
+**New Order Knowledge**:
+- **Guardians**: Knows they exist, suspects institutional infiltration, sees as regulatory obstacle
+- **Circle**: Full awareness of Elizabeth's legal campaign, resources, and historical documents
+
+**Circle Knowledge**:
+- **New Order**: Complete intelligence on Marcus's tech empire operations and control methods
+- **Guardians**: Suspects existence but uncertain of membership, goals, or infiltration extent
+
+**Guardian Knowledge**:
+- **New Order**: Complete infiltration and real-time monitoring of operations
+- **Circle**: Monitoring Elizabeth's activities but less direct infiltration due to her paranoia
 
 ### POWER TRIANGULATION
 - **New Order**: Has current control, resources, technology

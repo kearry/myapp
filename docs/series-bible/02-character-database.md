@@ -75,6 +75,19 @@
 - **Conflict**: Different approaches to change
 - **Complication**: Elizabeth's unclear motives
 
+### JAMES & DAVID
+- **Professional**: Both influence Emma's investigation from different angles
+- **Dynamic**: Subtle rivalry as competing advisors
+- **David's Suspicion**: Suspects James has New Order family connections
+- **James's Awareness**: Recognizes David's protective influence over Emma
+- **Episodes 2-6**: Underlying tension when both present, competing guidance
+
+### MARCUS & ELIZABETH
+- **Past**: Former allies in early 2000s tech resistance movement
+- **The Split (2008)**: Disagreement over control vs transparency methodology
+- **Current**: Strategic enemies who anticipate each other's moves
+- **Personal**: Mutual respect but fundamental ideological opposition
+
 ## CHARACTER ARCS
 
 ### EMMA'S ARC

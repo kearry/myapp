@@ -2,6 +2,21 @@
 
 ## Major Project Decisions
 
+### 2025-06-07: Character Relationship Gap Fixes
+**Decision**: Define missing relationships between society leaders and key characters
+**Context**: Character Relations Mind Map revealed critical gaps that would cause story problems in Episodes 2-6
+**Relationships Added**:
+- **Marcus Rhodes ↔ Elizabeth Weishaupt**: Former allies (early 2000s tech resistance) who split over methodology in 2008 - now strategic enemies with mutual respect
+- **Guardians ↔ Other Societies**: Balance maintainers with different intelligence levels on each society - David serves Guardian agenda, not necessarily Emma's interests
+- **James Hawthorne ↔ David Park**: Professional rivals competing for Emma's guidance - both protective but for different reasons and loyalties
+**Rationale**: 
+- Prevents story inconsistencies in Episodes 2-6 development
+- Adds depth to society leader dynamics beyond just competing for Emma
+- Creates realistic professional tensions between Emma's advisors
+- Establishes clear intelligence levels between societies
+**Impact**: Episodes 2-6 can now reference Marcus-Elizabeth shared history, show James-David tension, and demonstrate Guardian balance agenda
+**Alternative Options Rejected**: Leave gaps unfilled (would cause story problems), Create antagonistic relationships only (lacks complexity)
+
 ### 2025-06-06: Format Strategy - Parallel Stories
 **Decision**: Option A - Parallel Stories approach for TV and Podcast development
 **Context**: TV and podcast are fundamentally different mediums requiring different storytelling approaches
@@ -53,5 +68,5 @@
 **Episode 7-10 Ending Philosophy**: After Episodes 2-6 development, must choose which of the 5 philosophical endings to develop first for initial production.
 
 ---
-*Last Updated: 2025-06-06*  
-*Status: Format strategy decided, Episodes 2-6 structure in development*
+*Last Updated: 2025-06-07*  
+*Status: Foundation consistency decided, Episodes 2-6 structure in development*

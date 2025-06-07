@@ -52,29 +52,29 @@ Glass and steel towers reflect the sunrise. Modern, sterile, powerful. Security 
 
 Humming servers, blinking lights. A TECHNICIAN (20s) works late, eyes bloodshot. He opens a terminal, starts typing code.
 
-**TECHNICIAN**  
+**TYLER**  
 (muttering)  
 Come on... just need to trace this subroutine...
 
 His screen fills with scrolling code. Something catches his eye. He highlights a section, frowns.
 
-**TECHNICIAN (CONT'D)**  
+**TYLER (CONT'D)**  
 What the hell?
 
 The code resolves into readable text: "Social compliance algorithms require 73% consensus threshold before implementation..."
 
-The Technician's eyes widen. He screenshots frantically.
+Tyler's eyes widen. He screenshots frantically.
 
-**TECHNICIAN (CONT'D)**  
+**TYLER (CONT'D)**  
 (whispered)  
 Jesus Christ.
 
-FOOTSTEPS echo in the hallway. The Technician quickly closes windows, grabs his phone. The door opens as he hits send on an email.
+FOOTSTEPS echo in the hallway. Tyler quickly closes windows, grabs his phone. The door opens as he hits send on an email.
 
 **SECURITY GUARD**  
-Working late again, Marcus?
+Working late again, Tyler?
 
-**TECHNICIAN**  
+**TYLER**  
 (nervous)  
 Just... just finishing up.
 
@@ -133,10 +133,19 @@ Emma, we've talked about conspiracy theories. Your readers need housing stories,
 **EMMA**  
 It's not a conspiracy theory if it's real.
 
-David studies her. Something flickers across his face - concern? Recognition?
+David studies her for a long moment. Something shifts in his expression - recognition, then concern.
 
 **DAVID**  
-Show me what you have. But quietly.
+(too specific)  
+Show me what you have. But quietly. And Emma... who else knows about this code?
+
+**EMMA**  
+(surprised by the question)  
+Just us. Why?
+
+**DAVID**  
+(pause, then deflecting)  
+No reason. Just... be careful who you trust with this.
 
 [SCRIPT CONTINUES WITH FULL EPISODE CONTENT...]
 

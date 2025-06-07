@@ -22,7 +22,7 @@ Emma Chen begins documenting her investigation after receiving mysterious survei
 - **Main Investigation**: Surveillance code discovery and tech worker death
 - **Historical Connection**: Initial hints of 1776 Illuminati origins
 - **Documents Featured**: Encrypted code, father's 2008 research, Illuminati papers
-- **Characters**: Emma (narrator), David (editor), Sarah (tech expert), Elizabeth (mysterious contact)
+- **Characters**: Emma (narrator), David (editor), Elizabeth (mysterious contact)
 
 ## Audio Elements
 - **Narration Style**: Emma first-person, conversational, investigative
@@ -70,7 +70,7 @@ That was eight hours ago. The person who sent me this code... he's dead.
 ### MAIN CONTENT (2:30-32:00)
 
 #### Segment 1: The Discovery (2:30-8:00)
-**[SOUND: Coffee shop ambient, low chatter]**
+**[SOUND: Coffee brewing, quiet apartment ambient]**
 
 **EMMA (V.O.)**  
 So let me back up. This morning started normal. Well, normal for someone drowning in student debt and living on ramen. I was working on a piece about tech worker housing when this email came through.
@@ -93,70 +93,44 @@ I printed it out and took it to my editor, David Park. David's been in journalis
 **[SOUND: Newsroom ambient, phones, typing]**
 
 **EMMA (V.O.) (CONT'D)**  
-He told me to research quietly. Said if this was real, I needed to be very careful. That's when I called my friend Sarah - she works in tech, knows code better than anyone I know.
-
-**[SOUND: Phone dialing, connection]**
-
-**SARAH (PHONE VOICE - FILTERED)**  
-Emma? What's up?
-
-**EMMA (V.O.)**  
-I met Sarah at a coffee shop downtown. I won't say which one - I'm already paranoid enough. When I showed her the screenshots, her face went white.
-
-**[SOUND: Coffee shop ambient returns]**
-
-**EMMA (V.O.) (CONT'D)**  
-She explained it to me in terms I could understand. This wasn't just surveillance - it was behavioral modification. Algorithms designed to predict and influence what people think and do. Not targeted ads. Actual behavior control.
-
-**[SOUND: Phone buzzing - text notification]**
-
-**EMMA (V.O.) (CONT'D)**  
-That's when I got the text. From an unknown number: "Stop looking or you'll end up like Marcus."
+He asked me who else knew about the code. Specific question that seemed... odd. Then he told me to research quietly and be careful who I trust. The way he said it, like he knew something he wasn't telling me.
 
 **[PAUSE]**
 
 **EMMA (V.O.) (CONT'D)**  
-Marcus. I asked Sarah who Marcus was. She told me he was a programmer at RedTree Technologies. Was. Past tense. Car accident that morning.
+I left the newsroom with more questions than answers. That's when I started digging into who might have sent me this code.
 
-#### Segment 2: The Connection (8:00-15:00)
+**[SOUND: Internet searching, typing]**
+
+**EMMA (V.O.) (CONT'D)**  
+Tyler. That's the name I found connected to RedTree Technologies, the company mentioned in the code metadata. Tyler worked in data analysis. Worked - past tense. Car accident that morning on Highway 99.
+
+**[PAUSE]**
+
+**EMMA (V.O.) (CONT'D)**  
+Single vehicle. Lost control. No witnesses. Hours after sending me surveillance code that could expose a massive conspiracy.
+
+#### Segment 2: The Investigation (8:00-15:00)
 **[SOUND: Footsteps on pavement, urban traffic]**
 
 **EMMA (V.O.)**  
-I left the coffee shop and called David immediately. Told him about Marcus - the programmer who'd sent me the code, who was now dead hours later. David's voice got very quiet.
-
-**[SOUND: Phone call quality]**
-
-**DAVID (PHONE VOICE - FILTERED)**  
-Emma, where are you right now?
-
-**EMMA (V.O.)**  
-He told me to go home, don't publish anything yet, give him twenty-four hours to figure this out. But I couldn't just sit on this. So I started digging.
-
-**[SOUND: Typing, internet searches]**
-
-**EMMA (V.O.) (CONT'D)**  
-Marcus Chen. Same last name as mine - probably a coincidence, but it bothered me. Car accident on Highway 99 at 6 AM. Single vehicle, lost control. No witnesses.
-
-**[PAUSE]**
-
-**EMMA (V.O.) (CONT'D)**  
-But here's what really got to me - I found his LinkedIn profile before it was taken down. Marcus worked in data analysis at RedTree Technologies. His last post was three days ago: "Some truths are worth the risk."
+I spent the afternoon researching RedTree Technologies. On the surface, they're a data analytics company. They help businesses understand consumer behavior. But when I dug deeper, I found government contracts. Defense Department. Homeland Security. Intelligence agencies.
 
 **[SOUND: Papers shuffling]**
 
 **EMMA (V.O.) (CONT'D)**  
-I spent the afternoon researching RedTree Technologies. On the surface, they're a data analytics company. They help businesses understand consumer behavior. But when I dug deeper, I found government contracts. Defense Department. Homeland Security. Intelligence agencies.
+Tyler's LinkedIn profile was taken down within hours of his death, but I'd already screenshotted it. His last post was three days ago: "Some truths are worth the risk."
 
-**[SOUND: Phone ringing]**
+**[PAUSE]**
 
 **EMMA (V.O.) (CONT'D)**  
 That's when I got the call that changed everything.
 
 #### Segment 3: The Contact (15:00-22:00)
-**[SOUND: Phone answering]**
+**[SOUND: Phone ringing]**
 
 **EMMA (V.O.)**  
-Unknown number again. I almost didn't answer.
+Unknown number. I almost didn't answer.
 
 **ELIZABETH (PHONE VOICE - FILTERED, DISTORTED)**  
 Ms. Chen? You received something that wasn't meant for you.
@@ -193,9 +167,10 @@ I met her at Pike Place. Well-dressed, confident, maybe mid-forties. She handed 
 **EMMA (V.O.) (CONT'D)**  
 What I found inside changed everything I thought I knew about my family, about the 2008 crash, about the world.
 
-**[SOUND: Papers shuffling]**
+#### Segment 4: The History (22:00-28:00)
+**[SOUND: More papers rustling]**
 
-**EMMA (V.O.) (CONT'D)**  
+**EMMA (V.O.)**  
 My father's research. Charts, documents, analysis I'd never seen before. His handwriting was all over it: "Systematic wealth extraction," "Targeted community destruction," "Algorithmic mortgage defaults."
 
 **[PAUSE]**
@@ -203,13 +178,12 @@ My father's research. Charts, documents, analysis I'd never seen before. His han
 **EMMA (V.O.) (CONT'D)**  
 My father had figured out that the 2008 crash wasn't just reckless banking. It was targeted. Specific communities, specific families were deliberately destroyed. Including ours.
 
-#### Segment 4: The History (22:00-28:00)
-**[SOUND: More papers rustling]**
+**[SOUND: Very careful paper handling]**
 
-**EMMA (V.O.)**  
+**EMMA (V.O.) (CONT'D)**  
 But that wasn't all that was in the envelope. There were other documents. Much older ones. Photocopies of handwritten text from what looked like the 1700s.
 
-**[SOUND: Paper, very careful handling]**
+**[SOUND: Page turning]**
 
 **EMMA (V.O.) (CONT'D)**  
 The title page read: "Ordo Illuminati - The True Playbook for Social Order." Dated 1776.
@@ -279,7 +253,7 @@ Your father was murdered, Ms. Chen. But not by who you think.
 **[SOUND: Recording stopping, starting again]**
 
 **EMMA (V.O.)**  
-I'm back home now. I've been sitting here for hours, trying to process everything that happened today. The code, Marcus's death, my father's research, these historical documents, Elizabeth, and now this Marcus Rhodes claiming my father was murdered.
+I'm back home now. I've been sitting here for hours, trying to process everything that happened today. The code, Tyler's death, my father's research, these historical documents, Elizabeth, and now this Marcus Rhodes claiming my father was murdered.
 
 **[SOUND: Papers shuffling]**
 
@@ -304,7 +278,7 @@ I know I should probably go to the police. But David warned me to trust no one c
 **[SOUND: Typing]**
 
 **EMMA (V.O.) (CONT'D)**  
-So I'm going to keep investigating. And I'm going to keep recording. Because if something happens to me - if I end up like Marcus - at least there will be a record.
+So I'm going to keep investigating. And I'm going to keep recording. Because if something happens to me - if I end up like Tyler - at least there will be a record.
 
 **[PAUSE]**
 

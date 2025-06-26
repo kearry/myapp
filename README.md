@@ -98,7 +98,7 @@ the-playbook/
 1. **Development Workflow**: See [CONTRIBUTING.md](CONTRIBUTING.md)
 2. **Current Progress**: Check [Status Tracker](docs/project-management/status-tracker.md)
 3. **Major Decisions**: Review [Decision Log](DECISION-LOG.md)
-4. **Current Priority**: See [Next Actions](next-actions.md)
+4. **Current Priority**: See [Next Steps](NEXT-STEPS.md)
 
 ## 🎭 Key Characters
 

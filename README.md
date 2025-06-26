@@ -148,6 +148,10 @@ the-playbook/
 **This is not just a story. It's the future of interactive narrative.**
 
 ---
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
 
 *Last Updated: 2025-06-06*  
 *Ready for the next phase of revolutionary storytelling*

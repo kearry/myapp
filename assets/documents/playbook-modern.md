@@ -437,7 +437,7 @@ Prediction Accuracy Targets:
 
 ---
 
-## SECTION VII: HEALTH AND DEPENDENCY
+## SECTION VIII: HEALTH AND DEPENDENCY
 
 ### Chapter 7: Biological Control
 
@@ -471,7 +471,7 @@ Prediction Accuracy Targets:
 
 ---
 
-## SECTION VIII: IMPLEMENTATION PROTOCOLS
+## SECTION IX: IMPLEMENTATION PROTOCOLS
 
 ### Chapter 8: Operational Guidelines
 
@@ -507,7 +507,7 @@ Target Metrics:
 
 ---
 
-## SECTION IX: CRISIS MANAGEMENT
+## SECTION X: CRISIS MANAGEMENT
 
 ### Chapter 9: Threat Response
 
@@ -549,7 +549,7 @@ Target Metrics:
 
 ---
 
-## SECTION X: FUTURE EVOLUTION
+## SECTION XI: FUTURE EVOLUTION
 
 ### Chapter 10: Next-Generation Control
 

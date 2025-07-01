@@ -2,6 +2,24 @@
 
 ## Major Project Decisions
 
+### 2025-06-07: Character Name Standardization - Tyler Fix
+**Decision**: Standardize tech worker character name as "Tyler" across all repository files
+**Context**: Podcast Episode 1 script (Doc 19) incorrectly used "Marcus Chen" for dead tech worker, creating confusion with Marcus Rhodes (tech billionaire antagonist)
+**Files Updated**:
+- **Doc 19**: `scripts/podcast/season-01/episodes/S01E01-discovery.md` - Changed "Marcus Chen" to "Tyler" throughout
+- **Doc 3**: `scripts/tv-series/season-01/episodes/S01E01-discovery.md` - Verified Tyler usage (was already correct)
+- **Audio Elements**: Added Marcus Rhodes to voice casting requirements in Doc 19
+**Character Authority Established**:
+- **Tyler**: Dead tech worker at Red Tree Technologies (sends surveillance code, dies in car accident)
+- **Marcus Rhodes**: Tech billionaire, New Order leader, antagonist (calls Emma, claims father was murdered)
+**Rationale**: 
+- Eliminates character name confusion between tech worker and antagonist
+- Aligns with user's actual transcript which uses "Tyler"
+- Maintains Character Authority List consistency
+- Enables clear voice casting for podcast production
+**Impact**: Episode 1 scripts now production-ready for both TV and Podcast formats with consistent character names
+**Alternative Options Rejected**: Keep "Marcus Chen" (causes confusion), Use different name entirely (breaks transcript authenticity)
+
 ### 2025-06-07: Character Relationship Gap Fixes
 **Decision**: Define missing relationships between society leaders and key characters
 **Context**: Character Relations Mind Map revealed critical gaps that would cause story problems in Episodes 2-6
@@ -69,4 +87,4 @@
 
 ---
 *Last Updated: 2025-06-07*  
-*Status: Foundation consistency decided, Episodes 2-6 structure in development*
+*Status: Character consistency established, Episodes 2-6 structure ready for development*

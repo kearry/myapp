@@ -12,6 +12,7 @@
 - **Vulnerabilities**: Student debt, career ambition
 - **Character Journey**: From system reformer to system questioner
 - **Family Connection**: Father was targeted for asking questions about banking algorithms
+- **Physical Description**: 5'6", athletic build from walking/biking for transportation. Straight black hair usually pulled back when working, expressive dark brown eyes that show both intelligence and determination. Professional wardrobe on a budget - quality pieces bought secondhand, always clean and pressed despite financial constraints. Carries herself with quiet confidence, but recent stress shows in occasional hand tremor when processing difficult information. Small scar on left hand from childhood accident. Moves with purpose, rarely still when thinking.
 
 ### JAMES HAWTHORNE (40)
 - **Role**: Security Expert
@@ -22,6 +23,7 @@
 - **Vulnerabilities**: Duty to family, attraction to Emma
 - **Character Journey**: From system defender to truth seeker
 - **Internal Conflict**: Loyalty to family vs. moral obligation
+- **Physical Description**: 6'2", lean but strong build from security training and regular exercise. Sandy brown hair with early grey at temples, giving distinguished appearance. Piercing blue-grey eyes that miss nothing, strong jawline, classic Anglo features that speak to generations of privilege. Expensive, conservative clothing - tailored suits, quality fabrics, understated luxury. Moves with controlled precision, excellent posture, hands often clasped behind back. Voice carries natural authority but softens when speaking with Emma. Unconscious habit of checking exits and sightlines.
 
 ## ANTAGONISTS
 
@@ -34,6 +36,7 @@
 - **Resources**: Global tech empire, historical artifacts
 - **Vulnerabilities**: Fear of losing control
 - **Belief**: People can't handle real freedom
+- **Physical Description**: 6'1", solid but not imposing build - commands presence through confidence rather than intimidation. Silver-grey hair with slight wave, well-maintained but not overly styled. Strong jawline, intelligent grey-blue eyes, laugh lines that make him appear approachable until you notice they don't reach his eyes. Expensive but understated clothing - quality fabrics, classic cuts, no flashy displays of wealth. Moves deliberately with excellent posture, often clasps hands behind back when thinking. Deep, measured voice rarely raised - commands attention through calm authority. Distinctive slight smile and tendency to tilt head when "listening" (actually analyzing).
 
 ## SUPPORTING CHARACTERS
 
@@ -45,6 +48,7 @@
 - **Connection**: Complex history with James
 - **True Agenda**: Unknown - possibly replacing current control with her own
 - **Resources**: Historical documents, legal networks
+- **Physical Description**: 5'8", elegant bearing that commands attention without effort. Auburn hair with subtle highlights, usually styled in sophisticated updo or loose waves. Sharp green eyes that seem to see through deception, high cheekbones, patrician features suggesting European aristocracy. Impeccably dressed in designer clothing with historical jewelry pieces - often antique rings or necklaces that hint at family legacy. Moves with fluid grace, speaks with slight accent (educated European). Maintains perfect posture, rarely betrays emotion through body language. Voice is cultured, measured, with underlying steel.
 
 ### DAVID PARK (40)
 - **Role**: Editor/Guardian Member
@@ -54,6 +58,7 @@
 - **Knowledge**: Emma's family connection
 - **True Role**: Observer of power shifts
 - **Loyalty**: Unclear - protecting Emma or protecting system
+- **Physical Description**: 5'10", average build that helps him blend into any environment. Black hair starting to show grey, kept short and professional. Dark brown eyes behind wire-rimmed glasses, unremarkable features that are easily forgotten - an advantage in his Guardian role. Dresses in standard newsroom attire - khakis, button-down shirts, occasionally a sweater vest. Moves quietly, observes constantly, has habit of taking notes on small notepad. Voice is calm, encouraging, with underlying wariness. Often touches his glasses when thinking or concerned.
 
 ## CHARACTER RELATIONSHIPS
 
